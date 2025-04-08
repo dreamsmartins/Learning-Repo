@@ -111,3 +111,26 @@ This week focused on cloud computing principles and practical application using 
 ---
 
 *This README section is based on the activities and skills covered in Week 5 of the bootcamp.*
+
+## Week 6: Introduction to Python for Data Analysis
+
+This week introduced the Python programming language and its application in data analysis, focusing on the Pandas library for data manipulation and exploration.
+
+### Key Skills & Concepts Learned in Week 6
+
+* **Python Fundamentals:**
+  * Practiced basic Python syntax and control flow by solving the FizzBuzz challenge [printing "fizz" for multiples of 3, "buzz" for multiples of 5, and "fizzbuzz" for multiples of both](cite: 98, 99, 100).
+* **Pandas for Data Manipulation:**
+  * **Data Loading & Exploration:** Read CSV files into Pandas DataFrames [cite: 101] and explored data using methods to display initial rows (`head()`)[cite: 102], get DataFrame information (`info()`)[cite: 103], and generate summary statistics (`describe()`)[cite: 104]. Used Jupyter Notebooks for exercises[cite: 121].
+  * **Indexing & Slicing:** Selected specific columns [cite: 105, 106] and rows[cite: 107], including filtering data based on conditions [e.g., selecting rows where 'class' is 'Four'](cite: 108). Also practiced selecting specific columns from different datasets [e.g., 'Country/Territory' and 'UN\_Region'](cite: 121).
+  * **Data Manipulation:** Added new columns based on conditions [e.g., a 'passed' column based on marks >= 60](cite: 109), renamed existing columns[cite: 110], and removed columns (`drop()`)[cite: 111].
+  * **Aggregation & Grouping:** Grouped data using `groupby()` to calculate statistics like mean marks per class [cite: 112] and average marks per gender[cite: 114]. Counted occurrences within groups [e.g., number of students per class](cite: 113).
+  * **Advanced Operations:** Created pivot tables to summarize data[cite: 115], generated new categorical columns based on numeric values [e.g., assigning grades 'A', 'B', 'C', 'D' based on marks](cite: 116), and sorted DataFrames based on column values[cite: 117].
+  * **Data Exporting:** Saved modified DataFrames (e.g., with the new 'grade' column) to new CSV files[cite: 118].
+* **Practical Application:**
+  * Applied Pandas skills to analyze 'student.csv' [cite: 100] and ‘GDP (nominal) per Capita.csv’ datasets[cite: 119, 122], working through guided exercises in a Jupyter Notebook[cite: 122].
+  * Considered data visualization as an extension activity[cite: 119].
+
+---
+
+*This README section is based on the activities and skills covered in Week 6 of the bootcamp.*
