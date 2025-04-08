@@ -56,3 +56,27 @@ This week focused on gaining proficiency with industry-standard data visualizati
 ---
 
 *This README section is based on the activities and skills covered in Week 2 of the bootcamp.*
+
+## Week 3: Database Fundamentals and SQL
+
+This week covered the fundamentals of database design, management, and the SQL language for interacting with relational databases.
+
+### Key Skills & Concepts Learned in week 3
+
+* **Database Core Concepts:**
+  * Defined and differentiated primary and secondary keys[cite: 34].
+  * Understood the relationship between primary and foreign keys[cite: 34].
+  * Identified and provided real-world examples of database relationships: one-to-one, one-to-many, and many-to-many[cite: 35].
+  * Distinguished between relational and non-relational database models and identified use cases for non-relational data[cite: 36, 37].
+* **SQL Proficiency:**
+  * Researched and explained various SQL `JOIN` types, including Self-join, Right join, Full join, Inner join, Cross join, and Left join, along with example use cases[cite: 38, 39].
+* **Database Design & Implementation (Practical Exercise):**
+  * **Requirement Analysis:** Analyzed business needs for a small retail business (corner shop) to determine data storage requirements (inventory, sales, customer information, loyalty program) and user needs[cite: 41, 42, 43, 44, 45, 47, 48, 49].
+  * **Schema Design:** Planned database table structures and defined necessary relationships between tables [e.g., linking sales to inventory and customers](cite: 50, 51).
+  * **SQL Implementation:** Practiced using SQL commands to create database schemas and tables, including defining relationships[cite: 52, 53].
+  * **Data Population:** Understood how to input initial data using SQL `INSERT` statements[cite: 54].
+  * **Database Maintenance:** Considered strategies for ensuring data accuracy, performing backups, and maintaining data security[cite: 55, 56].
+
+---
+
+*This README section is based on the activities and skills covered in Week 3 of the bootcamp, as detailed in the "Workbook Read Me" document.*
