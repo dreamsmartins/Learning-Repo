@@ -79,4 +79,35 @@ This week covered the fundamentals of database design, management, and the SQL l
 
 ---
 
-*This README section is based on the activities and skills covered in Week 3 of the bootcamp, as detailed in the "Workbook Read Me" document.*
+*This README section is based on the activities and skills covered in Week 3 of the bootcamp.*
+
+## Week 5: Cloud Computing & Microsoft Azure Data Fundamentals
+
+This week focused on cloud computing principles and practical application using Microsoft Azure, specifically for data storage, analysis, and management, while considering relevant data laws and regulations.
+
+### Key Skills & Concepts Learned in week 5
+
+* **Cloud Computing Fundamentals:**
+  * Understood the real-world applications and business benefits of cloud computing[cite: 59].
+  * Identified alternatives to cloud computing and major cloud providers with their features[cite: 60].
+  * Explained different cloud service models (IaaS, PaaS, SaaS) and their use cases[cite: 62].
+  * Described various cloud deployment models (Public, Private, Hybrid, Community) and their appropriate implementation scenarios[cite: 63].
+* **Data Laws & Ethics:**
+  * Reviewed key UK legislation: Computer Misuse Act 1990 [including unauthorized access and modification](cite: 64, 65), Police and Justice Act 2006 additions [making/supplying articles for misuse, impairment of computer operation, increased penalties](cite: 66, 67, 68), Copyright, Designs and Patents Act 1988, Data Protection Act 2018, Consumer Rights Act 2015[cite: 72].
+  * Understood rules regarding storing employee data[cite: 69, 70].
+  * Identified examples and consequences of copyright infringement and plagiarism[cite: 71, 72].
+* **Microsoft Azure Practical Skills:**
+  * Explored relational data storage and management within Azure[cite: 74].
+  * Explored non-relational data storage options in Azure[cite: 75].
+  * Explored data analytics capabilities within the Azure ecosystem[cite: 76].
+  * Completed practical exercises aligned with Azure DP-900 (Data Fundamentals) certification topics[cite: 77].
+* **Azure Solution Design (Case Study: Pet Shop):**
+  * **Compliance:** Identified relevant data laws (GDPR, DPA 2018) for handling customer data[cite: 82, 83].
+  * **Service Selection:** Recommended appropriate Azure services for data storage [Azure Blob Storage, Azure SQL Database](cite: 86), analysis [Azure Machine Learning, Azure Synapse Analytics](cite: 87), and integration/automation [Azure Data Factory](cite: 88).
+  * **Data Modelling:** Defined data categories (customer demographics, transactions, inventory) [cite: 89] and outlined a data modeling approach [relational/data warehouse](cite: 90).
+  * **Storage & Security:** Recommended data storage formats (CSV, JSON, Parquet) [cite: 91] and security measures [encryption, access controls](cite: 92).
+  * **Operations:** Considered backup/disaster recovery [Azure Backup, Site Recovery](cite: 93), data visualization [Power BI](cite: 94), and future scalability[cite: 95].
+
+---
+
+*This README section is based on the activities and skills covered in Week 5 of the bootcamp.*
